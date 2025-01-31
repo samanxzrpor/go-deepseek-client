@@ -1,8 +1,8 @@
 # Deepseek Go Client
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/yourusername/deepseek.svg)](https://pkg.go.dev/github.com/yourusername/deepseek)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/deepseek/blob/main/LICENSE)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/yourusername/deepseek)](https://golang.org/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/samanxzrpor/deepseek.svg)](https://pkg.go.dev/github.com/samanxzrpor/deepseek)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/samanxzrpor/deepseek/blob/main/LICENSE)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/samanxzrpor/deepseek)](https://golang.org/)
 
 A modern, type-safe Go client for the Deepseek API, designed for reliability and ease of integration.
 
@@ -40,7 +40,7 @@ import (
 	"fmt"
 	"os"
 	
-	"github.com/yourusername/deepseek"
+	"github.com/samanxzrpor/deepseek"
 )
 
 func main() {
